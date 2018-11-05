@@ -3,3 +3,5 @@ tekst1
 jakis drugi tekst
 
 czeci tekst
+
+czwarty tekst
